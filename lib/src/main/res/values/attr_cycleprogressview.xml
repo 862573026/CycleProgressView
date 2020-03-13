@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <declare-styleable name="CycleProgressView">
+        <attr name="cpvTextSize" format="reference|dimension" />
+        <attr name="cpvFullTextSize" format="reference|dimension" />
+        <attr name="cpvMaxSize" format="integer" />
+        <attr name="cpvMaxTipText" format="reference|string" />
+        <attr name="cpvCycleSize" format="reference|dimension" />
+        <attr name="cpvTextColor" format="reference|color" />
+        <attr name="cpvFullTextColor" format="reference|color" />
+        <attr name="cpvBgColor" format="reference|color" />
+        <attr name="cpvLowColor" format="reference|color" />
+        <attr name="cpvHighColor" format="reference|color" />
+        <attr name="cpvFullColor" format="reference|color" />
+    </declare-styleable>
+</resources>
